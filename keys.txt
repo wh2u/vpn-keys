@@ -17,4 +17,6 @@ vless://b265afc4-c897-4677-bdf3-6ea701d68cc8@server.scarychirag.cyou:443?securit
 
 vless://3ab7394f-e115-429c-89b6-7b6b812336d7@server.scarychirag.cyou:443?security=reality&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=f4ZbyYjJc5Zra42jv_XjCf1FI5kYFLMmJEXohf1rs1k&sni=www.hollywoodreporter.com&sid=91899f9605a1#131%20%D0%9D%D0%B5%D0%BE%D1%82%D0%B2%D1%80%D0%B0%D1%82%D0%B8%D0%BC%D1%8B%D0%B9%20%D0%A4%D1%80%D0%B8%D0%B4
 
+vless://44933eb8-4c26-4da0-ad4b-c90900db4904@server.scarychirag.cyou:443?security=reality&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=f4ZbyYjJc5Zra42jv_XjCf1FI5kYFLMmJEXohf1rs1k&sni=www.techradar.com&sid=1ad5e8348398#055%20%D0%92%D0%B5%D1%81%D0%BE%D0%BC%D0%B0%D1%8F%20%D0%A0%D0%B5%D1%81%D1%81%D0%B0
 
+vless://58434d42-929c-4015-97af-55fd30f18fa4@server.scarychirag.cyou:443?security=reality&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=f4ZbyYjJc5Zra42jv_XjCf1FI5kYFLMmJEXohf1rs1k&sni=www.foxsports.com&sid=fbda54e3b141#089%20%D0%98%D0%B7%D0%B2%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%9E%D0%B1%D0%B0%D0%BC%D0%B0
